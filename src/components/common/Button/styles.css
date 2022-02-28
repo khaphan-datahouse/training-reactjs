@@ -1,0 +1,64 @@
+
+.btn-add, .btn-primary, .btn-danger, .btn-warning, .btn-success {
+  /* width: 70px; */
+  height: 40px;
+  border: 0px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 5px;
+  color: #ffffff;
+  padding: 0px;
+  margin: 0px;
+  box-shadow: 0.5px 2px 5px rgb(124, 108, 108);
+}
+
+.btn-add {
+  width: 90px;
+  background: #1c64a7;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.btn-primary {
+  width: 70px;
+  background: #1c64a7;
+}
+
+.btn-primary {
+  float: left;
+}
+
+.btn-primary:hover, .btn-add:hover {
+  background: #0b4072
+}
+
+.btn-danger {
+  width: 80px;
+  background: rgb(206, 21, 21);
+  float: right;
+}
+
+.btn-danger:hover {
+  background: rgb(158, 8, 8)
+}
+
+.btn-success, .btn-warning {
+  width: 100%;
+  margin-top: 10px
+}
+
+.btn-success {
+  background: rgb(5, 116, 18)
+}
+
+.btn-success:hover {
+  background: rgb(7, 75, 15)
+}
+
+.btn-warning {
+  background: rgb(218, 166, 24)
+}
+
+.btn-warning:hover {
+  background: rgb(143, 111, 22)
+}

@@ -1,0 +1,25 @@
+.timer {
+    border: 1px solid rgb(185, 143, 143);
+    width: 320px;
+    height: 260px;
+    border-radius: 2%;
+    margin: 10px auto;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.title, .project, .time {
+    margin: 10px 0px 15px 0px;
+}
+
+.title {
+    font-size: 24px;
+}
+
+.project {
+    font-size: 20px;
+}
+
+.time {
+    font-size: 32px;
+}

@@ -1,0 +1,25 @@
+label {
+    display: inline-block;
+    font-size:20px;
+    width: 50px;
+}
+
+input {
+    font-size: 18px;
+    width:60%;
+    height: 30px;
+    margin-left: 20px;
+    border-radius: 3px;
+    border: 1px solid rgb(194, 130, 130);
+}
+
+label, input {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.input-text {
+    /* height: 30px !important; */
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
