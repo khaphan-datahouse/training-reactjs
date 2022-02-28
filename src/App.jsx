@@ -105,7 +105,8 @@ function App() {
   }
 
   const handleRemoveAll = () => {
-    setData([]);
+    setData([]); 
+    //set data
   } 
 
   const handleResetAll = () => {
